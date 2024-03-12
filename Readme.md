@@ -4,8 +4,8 @@
 
 <img src="https://img.shields.io/badge/Nexus-V3.66.0.02-green"></img>
 
-- [Install With Script](https://github.com/Meysamy71/linuxinstall/tree/main/nexus/script)
-- [Install Docker Compose](https://github.com/Meysamy71/linuxinstall/tree/main/nexus/docker)
+- [Install With Script](https://github.com/Meysamy71/nexus/tree/main/script)
+- [Install Docker Compose](https://github.com/Meysamy71/nexus/tree/main/docker)
 - [Install Manually](#Install-Manually)
 
 ## Install Manually 
