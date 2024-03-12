@@ -103,7 +103,7 @@ CheckStatus "Created the nexus directory"
 
 # Download the latest nexus
 INFO "Download the latest nexus"
-wget -O nexus.tar.gz https://github.com/Meysamy71/linuxinstall/releases/download/nexusinstall-v1.0.0/nexus.tar.gz
+wget -O nexus.tar.gz https://github.com/Meysamy71/linuxinstall/releases/download/nexusinstall-v1.0.0/nexus.tar.gz -q --show-progress
 echo -e "\n"
 CheckStatus "Downloaded the latest nexus"
 
