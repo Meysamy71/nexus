@@ -2,10 +2,12 @@
 
 ---
 
-Clone Repository
-git clone https://github.com/Meysamy71/nexus.git
+## Clone Repository
 
-cd nexus/script
+
+`git clone https://github.com/Meysamy71/nexus.git`
+
+`cd nexus/script`
 
 
 ### Install nexus-installer.sh Script
