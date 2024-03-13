@@ -16,7 +16,7 @@ echo """
 ##         Welcome To Nexus Repository Installer                            ##
 ##         Date            `date "+%F %T "`                             ##
 ##         Version         Nexus-installer-1.0.0                            ##
-##         Nexus Version   $LATEST_VERSION                                  ##
+##         Nexus Version   $LATEST_VERSION                                        ##
 ##         Author          Meysam Yavarikhoo                                ##
 ##         Copyright       Copyright (c) 2024 https://github.com/Meysamy71  ##
 ##         License         GNU General Public License                       ##
